@@ -1,4 +1,4 @@
-package vlml.springboot_api_restful;
+package vlml;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

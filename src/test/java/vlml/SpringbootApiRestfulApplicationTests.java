@@ -1,4 +1,4 @@
-package vlml.springboot_api_restful;
+package vlml;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
