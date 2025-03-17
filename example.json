@@ -1,0 +1,85 @@
+[
+  {
+  "name": "João Silva",
+  "account": {
+    "number": "1234-5",
+    "agency": "0010",
+    "balance": 25000.75,
+    "limit": 5000.00
+  },
+  "features": [
+    {
+      "icon": "https://example.com/icons/pix.png",
+      "description": "PIX"
+    },
+    {
+      "icon": "https://example.com/icons/transfer.png",
+      "description": "Transferências"
+    }
+  ],
+  "card": {
+    "number": "1111 2222 3333 4444",
+    "limit": 12000.00
+  },
+  "news": [
+    {
+      "icon": "https://example.com/icons/news.png",
+      "description": "Nova funcionalidade de cashback disponível"
+    }
+  ]
+},
+  {
+    "name": "Maria Oliveira",
+    "account": {
+      "number": "5678-9",
+      "agency": "0020",
+      "balance": 152000.00,
+      "limit": 30000.00
+    },
+    "features": [
+      {
+        "icon": "https://example.com/icons/invest.png",
+        "description": "Investimentos"
+      }
+    ],
+    "card": {
+      "number": "5555 6666 7777 8888",
+      "limit": 25000.00
+    },
+    "news": [
+      {
+        "icon": "https://example.com/icons/news.png",
+        "description": "Novos rendimentos para investimentos disponíveis"
+      }
+    ]
+  },
+  {
+    "name": "Carlos Souza",
+    "account": {
+      "number": "9876-0",
+      "agency": "0030",
+      "balance": 5000.00,
+      "limit": 1000.00
+    },
+    "features": [
+      {
+        "icon": "https://example.com/icons/loan.png",
+        "description": "Empréstimos"
+      },
+      {
+        "icon": "https://example.com/icons/insurance.png",
+        "description": "Seguros"
+      }
+    ],
+    "card": {
+      "number": "9999 0000 1111 2222",
+      "limit": 5000.00
+    },
+    "news": [
+      {
+        "icon": "https://example.com/icons/news.png",
+        "description": "Agora você pode contratar seguros pelo app"
+      }
+    ]
+  }
+]
