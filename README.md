@@ -3,8 +3,17 @@
 API REST na Nuvem usando Spring Boot 3, Java 17 e Railway
 (Desafio de projeto Decola Tech 2025)
 
-## Domínio no Railway
-springboot-api-restful-vlml-prd.up.railway.app
+## URL do deploy
+https://springboot-api-restful-vlml-prd.up.railway.app/swagger-ui.html
+
+## Problemas no meu projeto
+A aplicação no railway está com um erro que ainda não consegui identificar, ela fica sendo iniciada várias vezes e depois quebra.
+
+Esse foi o meu primeiro contato com Java, springboot e tudo o mais.
+Não consegui mudar o domínio da aplicação ou implementar algo além das referências devido ao prazo corrido do bootcamp.
+
+Ainda tenho outros projetos para levar à frente no front end, onde tenho mais familiaridade e espero que fiquem melhores.
+Assim que possível, gostaria de voltar nesse projeto para trazer uma melhor qualidade e possivelmente mais ideias.
 
 ### Diagrama de classe
 ``` mermaid
