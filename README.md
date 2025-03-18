@@ -7,7 +7,9 @@ API REST na Nuvem usando Spring Boot 3, Java 17 e Railway
 https://springboot-api-restful-vlml-prd.up.railway.app/swagger-ui.html
 
 ## Problemas no meu projeto
-A aplicação no railway está com um erro que ainda não consegui identificar, ela fica sendo iniciada várias vezes e depois quebra.
+A aplicação no railway está com um problema que ainda não consegui identificar, ela fica ativa por um tempo mas ao acessar não dá certo.
+No log mostra que fica sendo iniciada várias vezes e depois quebra.
+Caused by: org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution [FATAL: password authentication failed for user "postgres"] [n/a]
 
 Esse foi o meu primeiro contato com Java, springboot e tudo o mais.
 Não consegui mudar o domínio da aplicação ou implementar algo além das referências devido ao prazo corrido do bootcamp.
